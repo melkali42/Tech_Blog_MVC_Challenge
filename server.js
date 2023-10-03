@@ -40,7 +40,7 @@ const userSession = {
     })
 };
 
-app.use(session(userSession))
+app.use(session(userSession));
 
 // app.use for routes needs to be after session
 app.use(express.static(path.join(__dirname, '/public/')));
