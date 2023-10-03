@@ -1,0 +1,9 @@
+{
+    "development": {
+        "username": "root",
+        "password": null,
+        "database": "tech_blog_db",
+        "host": "127.0.0.0",
+        "dialect": "mysql"
+    }
+}
