@@ -20,8 +20,10 @@ This is the URL for my GitHub repository for this challenge:https://github.com/m
 
 This is the URL for the deployed application on Heroku:https://tech-blog-mvc-13challenge-f3b59df45a62.herokuapp.com/
 
-![alt text](assets/images/screenshot.png)
-    ```
+![Screenshot1](https://github.com/melkali42/Tech_Blog_MVC_Challenge/blob/main/assets/MVC%20server%20start.PNG)
+![Screenshot2](https://github.com/melkali42/Tech_Blog_MVC_Challenge/blob/main/assets/MVC%20localhost%20app.PNG)
+![Screenshot3](https://github.com/melkali42/Tech_Blog_MVC_Challenge/blob/main/assets/MVC%20depolyed%20to%20Heokuu%20app.PNG)
+
 
 ## Credits
 
